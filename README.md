@@ -7,13 +7,13 @@
 ## 
 
 
-Hello, my name is Paulo Silva, I'm fullstack developer and passionate about solving problems with technology.
+Hello, my name is Paulo Silva, I'm a Software Engineer and passionate about solving problems with technology.
 
 
-:man_technologist: I'm currently working with NodeJs and Angular.
+:man_technologist: I'm currently working with NodeJs, Java and React.
 
 
-:heart: I love animes, sitcom series on The Big Bang Theory specials and participating in hackathons.
+:heart: I love sitcom series on The Big Bang Theory specials and participating in hackathons.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulodevsilva&layout=compact&theme=radical)
